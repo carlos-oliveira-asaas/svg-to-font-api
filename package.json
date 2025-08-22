@@ -1,0 +1,11 @@
+{
+  "name": "svg-to-font-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "fantasticon": "^1.2.4",
+    "unzipper": "^0.10.11",
+    "archiver": "^7.0.0",
+    "formidable": "^3.5.0"
+  }
+}
